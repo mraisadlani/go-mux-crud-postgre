@@ -1,0 +1,5 @@
+{"level":"info","msg":"GET localhost:3000/api/v1/getproducts HTTP/1.1 \n","time":"2020-10-26T20:20:15+07:00"}
+{"level":"info","msg":"GET localhost:3000/api/v1/get_product/1 HTTP/1.1 \n","time":"2020-10-26T20:20:29+07:00"}
+{"level":"info","msg":"POST localhost:3000/api/v1/create_product HTTP/1.1 \n","time":"2020-10-26T20:20:39+07:00"}
+{"level":"info","msg":"PUT localhost:3000/api/v1/update_product/2 HTTP/1.1 \n","time":"2020-10-26T20:21:01+07:00"}
+{"level":"info","msg":"DELETE localhost:3000/api/v1/delete_product/2 HTTP/1.1 \n","time":"2020-10-26T20:21:15+07:00"}
